@@ -1790,7 +1790,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB E&C"
+         "value":"demo_buero"
         }, 
         {
          "name":"mapImage",
@@ -1800,7 +1800,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB-EC"
+         "value":"demo_buero"
         }, 
         {
          "name":"script",
