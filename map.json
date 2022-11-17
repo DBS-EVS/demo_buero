@@ -195,7 +195,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/demobuero"
+                 "value":".\/bahnhof"
                 }],
          "type":"tilelayer",
          "visible":true,
