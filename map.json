@@ -1790,7 +1790,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"demo_buero"
+         "value":"demobuero"
         }, 
         {
          "name":"mapImage",
