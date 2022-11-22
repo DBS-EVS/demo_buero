@@ -1800,7 +1800,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"demo_buero"
+         "value":"demobuero"
         }, 
         {
          "name":"script",
